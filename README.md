@@ -31,6 +31,10 @@
   - [HackTheBox](https://www.hackthebox.com/)
   - [Hacker101](https://www.hacker101.com/)
   - [Codeby Games](https://codeby.games/categories)
+
+shell revers
+  - [revshell](https://www.revshells.com/)
+
   
 ## Download Burp
 
