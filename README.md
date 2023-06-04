@@ -32,10 +32,10 @@
   - [Hacker101](https://www.hacker101.com/)
   - [Codeby Games](https://codeby.games/categories)
 
-shell revers
+# Shell revers
   - [revshell](https://www.revshells.com/)
 
-search
+# Search
 
   - [whois](https://whois.domaintools.com/)
   - [archive](https://archive.org/)
