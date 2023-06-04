@@ -35,7 +35,14 @@
 shell revers
   - [revshell](https://www.revshells.com/)
 
-  
+search
+
+  - [whois](https://whois.domaintools.com/)
+  - [archive](https://archive.org/)
+  - [archive ip,dns](viewdns.info)
+  - [ip на одном хосте](https://suip.biz/ru/)
+
+
 ## Download Burp
 
 [CLICK THIS LINK](https://github.com/Maverick-25/Burp-Suite/releases/download/tool/Burp-Suite.rar)
