@@ -32,7 +32,11 @@
   - [Hacker101](https://www.hacker101.com/)
   - [Codeby Games](https://codeby.games/categories)
 
+<<<<<<< HEAD
 # shell revers
+=======
+# Shell revers
+>>>>>>> refs/remotes/origin/Main
   - [revshell](https://www.revshells.com/)
   - [ngrok](https://ngrok.com/)
   python -c 'import pty;pty.spawn("/bin/bash")'
@@ -41,7 +45,14 @@
 
 
 
-  
+# Search
+
+  - [whois](https://whois.domaintools.com/)
+  - [archive](https://archive.org/)
+  - [archive ip,dns](viewdns.info)
+  - [ip на одном хосте](https://suip.biz/ru/)
+
+
 ## Download Burp
 
 [CLICK THIS LINK](https://github.com/Maverick-25/Burp-Suite/releases/download/tool/Burp-Suite.rar)
