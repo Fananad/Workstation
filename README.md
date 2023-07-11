@@ -10,16 +10,17 @@
  - [JWT.io](https://jwt.io/)
  - [Revshellgenerator](https://tex2e.github.io/reverse-shell-generator/index.html)
  - [SecLists](https://github.com/danielmiessler/SecLists)
+ - [bbfuzzing](https://github.com/reewardius/bbFuzzing.txt)
  - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
  - [Chat GPT](https://chat.openai.com/)
- - [CVE archive](https://github.com/trickest/cve)
+ - [PEASS-ng](https://github.com/Fananad/PEASS-ng) 
+ 
   
 ## Resourses for reading
   
  - [OWASP WSTG ENG](https://github.com/OWASP/wstg/tree/master/document)
  - [OWASP WSTG RUS](https://github.com/andrettv/WSTG/tree/master/WSTG-ru)
  - [OWASP ASVS RUS](https://github.com/andrettv/ASVS/tree/master/4.0/ru)
- - [CodeBy Forum](https://codeby.net/)
  - [HackTricks](https://book.hacktricks.xyz/welcome/readme)
  - [Exploit DB](https://www.exploit-db.com/)
   
@@ -32,7 +33,7 @@
   - [Hacker101](https://www.hacker101.com/)
   - [Codeby Games](https://codeby.games/categories)
 
-# Shell revers
+# Revers shell 
 
   - [revshell](https://www.revshells.com/)
   - [ngrok](https://ngrok.com/)
