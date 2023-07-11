@@ -13,8 +13,9 @@
  - [bbfuzzing](https://github.com/reewardius/bbFuzzing.txt)
  - [PayloadsAllTheThings](https://github.com/Fananad/PayloadsAllTheThings)
  - [Chat GPT](https://chat.openai.com/)
- - [PEASS-ng](https://github.com/Fananad/PEASS-ng) 
- 
+ - [PEASS-ng](https://github.com/Fananad/PEASS-ng)
+ - [Bookmarks](https://github.com/Fananad/offensive-bookmarks/tree/main)
+  
   
 ## Resourses for reading
   
