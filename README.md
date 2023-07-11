@@ -51,8 +51,8 @@
   - [ip на одном хосте](https://suip.biz/ru/)
 
 # APP
-  - [commix "cmd injection"](https://github.com/commixproject/commix)
-  - [commix](https://github.com/epinna/tplmap)
+  - [commix cmd injection](https://github.com/commixproject/commix)
+  - [$commix](https://github.com/epinna/tplmap)
 
 
 
