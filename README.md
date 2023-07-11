@@ -11,7 +11,7 @@
  - [Revshellgenerator](https://tex2e.github.io/reverse-shell-generator/index.html)
  - [SecLists](https://github.com/danielmiessler/SecLists)
  - [bbfuzzing](https://github.com/reewardius/bbFuzzing.txt)
- - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+ - [PayloadsAllTheThings](https://github.com/Fananad/PayloadsAllTheThings)
  - [Chat GPT](https://chat.openai.com/)
  - [PEASS-ng](https://github.com/Fananad/PEASS-ng) 
  
@@ -49,6 +49,11 @@
   - [archive](https://archive.org/)
   - [archive ip,dns](viewdns.info)
   - [ip на одном хосте](https://suip.biz/ru/)
+
+# APP
+  - [commix "cmd injection"](https://github.com/commixproject/commix)
+  - [commix](https://github.com/epinna/tplmap)
+
 
 
 ## Download Burp
