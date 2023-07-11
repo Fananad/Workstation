@@ -61,4 +61,4 @@
 
 ## Download Burp
 
-[CLICK THIS LINK](https://github.com/Maverick-25/Burp-Suite/releases/download/tool/Burp-Suite.rar)
+[CLICK THIS LINK](https://github.com/Maverick-25/Burp-Suite/releases/download/tool/Burp_Suite_Professional_2023.6.1_2023june15_repack-pwn3rzs.7z)
