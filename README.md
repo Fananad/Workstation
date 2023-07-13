@@ -24,7 +24,8 @@
  - [OWASP ASVS RUS](https://github.com/andrettv/ASVS/tree/master/4.0/ru)
  - [HackTricks](https://book.hacktricks.xyz/welcome/readme)
  - [Exploit DB](https://www.exploit-db.com/)
-  
+ - [Exploit DB](https://vulners.com/) 
+
 # Academies
   
   - [PortSwigger](https://portswigger.net/)
