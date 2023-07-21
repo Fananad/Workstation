@@ -16,7 +16,11 @@
  - [PEASS-ng](https://github.com/Fananad/PEASS-ng)
  - [Bookmarks](https://github.com/Fananad/offensive-bookmarks/tree/main)
   
+## Scan CMS
+
+ - [CMSmap](https://github.com/dionach/CMSmap)
   
+
 ## Resourses for reading
   
  - [OWASP WSTG ENG](https://github.com/OWASP/wstg/tree/master/document)
