@@ -60,7 +60,7 @@
   - [cmd injection commix](https://github.com/commixproject/commix)
   - [ssti tplmap](https://github.com/epinna/tplmap)
   - [ngrok](https://ngrok.com/download)
-  
+  - [.DS_Srore](https://github.com/gehaxelt/Python-dsstore)
 
 
 
