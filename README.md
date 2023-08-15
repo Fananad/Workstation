@@ -11,7 +11,7 @@
  - [Revshellgenerator](https://tex2e.github.io/reverse-shell-generator/index.html)
  - [SecLists](https://github.com/danielmiessler/SecLists)
  - [bbfuzzing](https://github.com/reewardius/bbFuzzing.txt)
- - [PayloadsAllTheThings](https://github.com/Fananad/PayloadsAllTheThings)
+ - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
  - [Chat GPT](https://chat.openai.com/)
  - [PEASS-ng](https://github.com/Fananad/PEASS-ng)
  - [Bookmarks](https://github.com/Fananad/offensive-bookmarks/tree/main)
