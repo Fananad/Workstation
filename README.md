@@ -12,6 +12,7 @@
  - [SecLists](https://github.com/danielmiessler/SecLists)
  - [bbfuzzing](https://github.com/reewardius/bbFuzzing.txt)
  - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+ - [fuzzdb]()https://github.com/Fananad/fuzzdb
  - [Chat GPT](https://chat.openai.com/)
  - [PEASS-ng](https://github.com/Fananad/PEASS-ng)
  - [Bookmarks](https://github.com/Fananad/offensive-bookmarks/tree/main)
